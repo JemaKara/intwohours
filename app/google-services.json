@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "542299449404",
+    "firebase_url": "https://intwohours-event-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "intwohours-event-app",
+    "storage_bucket": "intwohours-event-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542299449404:android:4503eac2b2d3628b7afb39",
+        "android_client_info": {
+          "package_name": "com.example.intwohours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542299449404-nn05hkmui841et4io6tu4vfrci6konkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDULtJUJEU8WDcxB8fnbNIACkk0rIfpRHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542299449404-nn05hkmui841et4io6tu4vfrci6konkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
