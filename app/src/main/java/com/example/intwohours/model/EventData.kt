@@ -1,20 +1,20 @@
 package com.example.intwohours.model
 
 class EventData{
-    var title: String? = null
+    var evenTitle: String? = null
     var info: String? = null
     var image: String? = null
 
     constructor(){}
 
     constructor(
-        name:String?,
+        evenTitle:String?,
         info:String?,
-        img:String?
+        image:String?
     ){
-        this.title = name
+        this.evenTitle = evenTitle
         this.info = info
-        this.image = img
+        this.image = image
     }
 
 }
