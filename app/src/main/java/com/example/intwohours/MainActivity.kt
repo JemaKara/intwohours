@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun getEventsData() {
 
-        mDataBase = FirebaseDatabase.getInstance().getReference("Animals")
+        mDataBase = FirebaseDatabase.getInstance().getReference("Events")
         mDataBase.addValueEventListener(object : ValueEventListener {
             override fun onDataChange(snapshot: DataSnapshot) {
                 if (snapshot.exists()) {
